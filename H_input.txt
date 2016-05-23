@@ -1,0 +1,16 @@
+Nmax: 300
+jjmax: 10
+inputFile:  N3LO_hw08j16n400.ho
+potential: N3LO
+hw: 8
+M1: 1
+D1: 1
+D3: 1
+D1+D3: 1
+Q2: 1
+R2: 1
+Info: 0
+Lanczos: 0
+DDiag: 1
+
+
